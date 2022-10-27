@@ -45,8 +45,6 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
 # 💬 Invited Talks
 - *2022.10.25*, I was invited by Prof. [Hiroya Takamura](https://sites.google.com/view/hjtakamura/) to have a talk for AIST about Text Generation.
 - *2021.05.10*, I was invited by Prof. [Xianghua Xie](http://csvision.swan.ac.uk/) to have a talk for SwanseaVIsion about Dynamic Graph Clustering.
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 🎖 Honors and Awards
 
