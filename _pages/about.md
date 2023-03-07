@@ -56,5 +56,5 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
 - National Science Foundation Graduate Fellowship (CASC), 2019-2020.
 
 # 📄 Academic Services
-- Reviewer for Conferences: ACL 2022, NAACL 2022, IJCNN 2022.
-- Reviewer for Journal: IEEE CYB, IEEE TNNLS, Knowledge-based Systems, Scientific Reports. 
+- Reviewer for Conferences: ACL 2022, NAACL 2022, IJCNN 2022, IEEE CEC 2023.
+- Reviewer for Journal: IEEE CYB, IEEE TNNLS, Knowledge-based Systems, Scientific Reports, Computer Communications, ACM TKDD, Computer Vision and Image Understanding. 
