@@ -20,6 +20,7 @@ redirect_from:
 Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Okumura-Funakoshi Lab](https://lr-www.pi.titech.ac.jp/wp/), College of Information and Communication Engineering at [Tokyo Institute of Technology](https://www.first.iir.titech.ac.jp/), advised by Prof. [Okumura Manabu](http://www.lr.pi.titech.ac.jp/~oku/index-j.html) and Prof. [Funakoshi Kotaro](http://lr-www.pi.titech.ac.jp/~funakoshi/public/en/). My research interests lie in Natural language generation (NLG), including controllable text generation, pre-trained text generation model, VAE for text generation, GAN for text generation, text generation in arbitrary order, long document understanding and generation, and applications in natural language generation.
 
 # 🔥 News
+- *2023.04.02*: Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the ACM International Conference on Multimedia Retrieval in 2023. EMP: Emotion-guided Multi-modal Fusion and Contrastive Learning for Personality Traits Recognition. Yusong Wang, **Dongyuan Li**, Kataro Funakoshi and Manabu Okumura.  (**ICMR 2023**)
 - *2022.10.25*: &nbsp;🎉🎉 I was invited by Prof. [Hiroya Takamura](https://sites.google.com/view/hjtakamura/) to have a talk for AIST. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
