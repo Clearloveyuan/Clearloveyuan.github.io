@@ -21,6 +21,7 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
 
 
 # 🔥 News
+- *2023.04.13*: &nbsp;🎉🎉 I was invited by Prof. Okumura Manabu to have a talk for Prof.[Simone Teufel](https://www.cl.cam.ac.uk/~sht25/) and Prof. [Olesya Razuvayevskaya](https://www.cl.cam.ac.uk/~or264/). 
 - *2023.04.02*: Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the ACM International Conference on Multimedia Retrieval in 2023. EMP: Emotion-guided Multi-modal Fusion and Contrastive Learning for Personality Traits Recognition. Yusong Wang, **Dongyuan Li**, Kataro Funakoshi and Manabu Okumura.  (**ICMR 2023**).
 - *2023.03.24*: Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the Japanese Society for Artificial Intelligence in 2023. Emotion-guided Multi-modal Fusion for Personality Traits Recognition. Yusong Wang, **Dongyuan Li**, Jialun Shen, Kataro Funakoshi and Manabu Okumura.  (**JSAI 2023**).
 - *2022.10.25*: &nbsp;🎉🎉 I was invited by Prof. [Hiroya Takamura](https://sites.google.com/view/hjtakamura/) to have a talk for AIST. 
