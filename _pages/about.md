@@ -29,7 +29,7 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 - Temporality-and Frequency-aware Graph Contrastive Learning for Temporal Network. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3511808.3557469); [\[code\]](https://anonymous.4open.science/r/TF-GCL-EF6C/README.md). Shiyin Tan, **Dongyuan Li**. ACM International Conference on Information & Knowledge Management 2022. (**CIKM 2022**).
 - JPG-Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation. [\[paper\]](https://aclanthology.org/2022.coling-1.523.pdf). Jingyi You, **Dongyuan Li**, Manabu Okumura, Kenji Suzuki.Proceedings of the 29th International Conference on Computational Linguistics (**COLING 2022**).
