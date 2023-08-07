@@ -21,6 +21,7 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
 
 
 # 🔥 News
+- *2023.08.05*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the 32nd ACM International Conference on Information and Knowledge Management. Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction. **Dongyuan Li**, Shiyin Tan, Yusong Wang, Kataro Funakoshi and Manabu Okumura. (**CIKM 2023**)
 - *2023.06.14*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the Journal of Natural Language Processing. Plug-and-Play Attribute-Aware Text Infilling via A New Attention Mechanism and Two-Level Positional Encoding. **Dongyuan Li**, Kataro Funakoshi and Manabu Okumura.
 - *2023.04.13*: &nbsp;🎉🎉 I was invited by Prof. Okumura Manabu to have a talk for Prof.[Simone Teufel](https://www.cl.cam.ac.uk/~sht25/) and Prof. [Olesya Razuvayevskaya](https://www.cl.cam.ac.uk/~or264/). 
 - *2023.04.02*: Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the ACM International Conference on Multimedia Retrieval in 2023. EMP: Emotion-guided Multi-modal Fusion and Contrastive Learning for Personality Traits Recognition. Yusong Wang, **Dongyuan Li**, Kataro Funakoshi and Manabu Okumura.  (**ICMR 2023**).
