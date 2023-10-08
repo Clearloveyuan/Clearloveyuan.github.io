@@ -21,6 +21,7 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
 
 
 # 🔥 News
+- *2023.10.08*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by The 2023 Conference on Empirical Methods in Natural Language Processing. Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. (**EMNLP 2023-Long main paper**)
 - *2023.09.22*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by IEEE Workshop on Automatic Speech Recognition and Understanding 2023. Active Learning Based Fine-Tuning Framework for Speech Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. (**ASRU 2023**)
 - *2023.08.05*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the 32nd ACM International Conference on Information and Knowledge Management. Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction. **Dongyuan Li**, Shiyin Tan, Yusong Wang, Kataro Funakoshi and Manabu Okumura. (**CIKM 2023**)
 - *2023.06.14*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the Journal of Natural Language Processing. Plug-and-Play Attribute-Aware Text Infilling via A New Attention Mechanism and Two-Level Positional Encoding. **Dongyuan Li**, Kataro Funakoshi and Manabu Okumura.
