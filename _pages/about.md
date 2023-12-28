@@ -27,14 +27,13 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
 - *2023.09.22*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by IEEE Workshop on Automatic Speech Recognition and Understanding 2023. Active Learning Based Fine-Tuning Framework for Speech Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. (**ASRU 2023**)
 - *2023.08.05*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the 32nd ACM International Conference on Information and Knowledge Management. Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction. **Dongyuan Li**, Shiyin Tan, Yusong Wang, Kataro Funakoshi and Manabu Okumura. (**CIKM 2023**)
 - *2023.06.14*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the Journal of Natural Language Processing. Plug-and-Play Attribute-Aware Text Infilling via A New Attention Mechanism and Two-Level Positional Encoding. **Dongyuan Li**, Kataro Funakoshi and Manabu Okumura.
-- *2023.04.13*: &nbsp;🎉🎉 I was invited by Prof. Okumura Manabu to have a talk for Prof.[Simone Teufel](https://www.cl.cam.ac.uk/~sht25/) and Prof. [Olesya Razuvayevskaya](https://www.cl.cam.ac.uk/~or264/). 
 - *2023.04.02*: Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the ACM International Conference on Multimedia Retrieval in 2023. EMP: Emotion-guided Multi-modal Fusion and Contrastive Learning for Personality Traits Recognition. Yusong Wang, **Dongyuan Li**, Kataro Funakoshi and Manabu Okumura.  (**ICMR 2023**). [Paper](https://dl.acm.org/doi/abs/10.1145/3591106.3592243), [Source Code](https://github.com/wykstc/PSR).
 - *2023.03.24*: Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by the Japanese Society for Artificial Intelligence in 2023. Emotion-guided Multi-modal Fusion for Personality Traits Recognition. Yusong Wang, **Dongyuan Li**, Jialun Shen, Kataro Funakoshi and Manabu Okumura.  (**JSAI 2023**).
 - *2022.10.25*: &nbsp;🎉🎉 I was invited by Prof. [Hiroya Takamura](https://sites.google.com/view/hjtakamura/) to have a talk for AIST. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 - Temporality-and Frequency-aware Graph Contrastive Learning for Temporal Network. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3511808.3557469); [\[code\]](https://anonymous.4open.science/r/TF-GCL-EF6C/README.md). Shiyin Tan, **Dongyuan Li**. ACM International Conference on Information & Knowledge Management 2022. (**CIKM 2022**).
 - JPG-Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation. [\[paper\]](https://aclanthology.org/2022.coling-1.523.pdf). Jingyi You, **Dongyuan Li**, Manabu Okumura, Kenji Suzuki.Proceedings of the 29th International Conference on Computational Linguistics (**COLING 2022**).
@@ -54,6 +53,7 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
 
 
 # 💬 Invited Talks
+- *2023.04.13*: &nbsp;🎉🎉 I was invited by Prof. Okumura Manabu to have a talk for Prof.[Simone Teufel](https://www.cl.cam.ac.uk/~sht25/) and Prof. [Olesya Razuvayevskaya](https://www.cl.cam.ac.uk/~or264/). 
 - *2022.10.25*, I was invited by Prof. [Hiroya Takamura](https://sites.google.com/view/hjtakamura/) to have a talk for AIST about Text Generation.
 - *2021.05.10*, I was invited by Prof. [Xianghua Xie](http://csvision.swan.ac.uk/) to have a talk for SwanseaVIsion about Dynamic Graph Clustering.
 
@@ -67,6 +67,7 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
 - National Science Foundation Graduate Fellowship (CASC), 2019-2020.
 
 # 📄 Academic Services
+- PC Members for DASSFA 2024.
 - Reviewer for Conferences: ACL 2022, NAACL 2022, IJCNN 2022, ICASSP 2023, ARR Openreview 2023.
 - Reviewer for Journal: IEEE CYB, IEEE TNNLS, IEEE Fuzzy System, IEEE TAFFC, IEEE MM, IEEE TETCI, Knowledge-based Systems, Scientific Reports, Computer Communications, ACM TKDD, CVIU, etc. 
 
