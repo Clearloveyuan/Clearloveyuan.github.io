@@ -26,35 +26,35 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
   
 # 📝 Selected Publications 
 
--[**ASRU 2023**]  Active Learning Based Fine-Tuning Framework for Speech Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. IEEE Workshop on Automatic Speech Recognition and Understanding 2023. [\[Paper\]](https://arxiv.org/pdf/2310.00283.pdf).
+[**ASRU 2023**]  Active Learning Based Fine-Tuning Framework for Speech Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. IEEE Workshop on Automatic Speech Recognition and Understanding 2023. [\[Paper\]](https://arxiv.org/pdf/2310.00283.pdf).
 
--[**EMNLP 2023**] Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. The 2023 Conference on Empirical Methods in Natural Language Processing. [\[Paper\]](https://aclanthology.org/2023.emnlp-main.996/), [\[Code\]](https://github.com/wykstc/MERC-main).
+[**EMNLP 2023**] Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. The 2023 Conference on Empirical Methods in Natural Language Processing. [\[Paper\]](https://aclanthology.org/2023.emnlp-main.996/), [\[Code\]](https://github.com/wykstc/MERC-main).
 
--[**CIKM 2023**] Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction.**Dongyuan Li**, Shiyin Tan, Yusong Wang, Kataro Funakoshi and Manabu Okumura. 32nd ACM International Conference on Information and Knowledge Management.  [\[Paper\]](https://dl.acm.org/doi/10.1145/3583780.3615231), [\[Code\]](https://anonymous.4open.science/r/Melt-712F/README.md). 
+[**CIKM 2023**] Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction.**Dongyuan Li**, Shiyin Tan, Yusong Wang, Kataro Funakoshi and Manabu Okumura. 32nd ACM International Conference on Information and Knowledge Management.  [\[Paper\]](https://dl.acm.org/doi/10.1145/3583780.3615231), [\[Code\]](https://anonymous.4open.science/r/Melt-712F/README.md). 
 
--[**JNLP 2023**] Plug-and-Play Attribute-Aware Text Infilling via A New Attention Mechanism and Two-Level Positional Encoding.   **Dongyuan Li**, Kataro Funakoshi and Manabu Okumura. Journal of Natural Language Processing 2023. [\[Paper\]](https://www.jstage.jst.go.jp/article/jnlp/30/3/30_1011/_article/-char/ja).
+[**JNLP 2023**] Plug-and-Play Attribute-Aware Text Infilling via A New Attention Mechanism and Two-Level Positional Encoding.   **Dongyuan Li**, Kataro Funakoshi and Manabu Okumura. Journal of Natural Language Processing 2023. [\[Paper\]](https://www.jstage.jst.go.jp/article/jnlp/30/3/30_1011/_article/-char/ja).
 
--[**ICMR 2023**]. EMP: Emotion-guided Multi-modal Fusion and Contrastive Learning for Personality Traits Recognition.  Yusong Wang, **Dongyuan Li**, Kataro Funakoshi and Manabu Okumura. ACM International Conference on Multimedia Retrieval 2023. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3591106.3592243), [\[Code\]](https://github.com/wykstc/PSR).
+[**ICMR 2023**]. EMP: Emotion-guided Multi-modal Fusion and Contrastive Learning for Personality Traits Recognition.  Yusong Wang, **Dongyuan Li**, Kataro Funakoshi and Manabu Okumura. ACM International Conference on Multimedia Retrieval 2023. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3591106.3592243), [\[Code\]](https://github.com/wykstc/PSR).
 
--[**JSAI 2023**] Emotion-guided Multi-modal Fusion for Personality Traits Recognition.   Yusong Wang, **Dongyuan Li**, Jialun Shen, Kataro Funakoshi and Manabu Okumura. The Japanese Society for Artificial Intelligence 2023. [\[paper\]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2U4IS2c03/_pdf/-char/ja); [\[code\]](https://github.com/wykstc/PSR).
+[**JSAI 2023**] Emotion-guided Multi-modal Fusion for Personality Traits Recognition.   Yusong Wang, **Dongyuan Li**, Jialun Shen, Kataro Funakoshi and Manabu Okumura. The Japanese Society for Artificial Intelligence 2023. [\[paper\]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2U4IS2c03/_pdf/-char/ja); [\[code\]](https://github.com/wykstc/PSR).
 
--[**CIKM 2022**] Temporality-and Frequency-aware Graph Contrastive Learning for Temporal Network.  Shiyin Tan, **Dongyuan Li**. ACM International Conference on Information & Knowledge Management 2022. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3511808.3557469); [\[code\]](https://anonymous.4open.science/r/TF-GCL-EF6C/README.md).
+[**CIKM 2022**] Temporality-and Frequency-aware Graph Contrastive Learning for Temporal Network.  Shiyin Tan, **Dongyuan Li**. ACM International Conference on Information & Knowledge Management 2022. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3511808.3557469); [\[code\]](https://anonymous.4open.science/r/TF-GCL-EF6C/README.md).
 
--[**COLING 2022**] JPG-Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation. Jingyi You, **Dongyuan Li**, Manabu Okumura, Kenji Suzuki.Proceedings of the 29th International Conference on Computational Linguistics.  [\[paper\]](https://aclanthology.org/2022.coling-1.523.pdf).
+[**COLING 2022**] JPG-Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation. Jingyi You, **Dongyuan Li**, Manabu Okumura, Kenji Suzuki.Proceedings of the 29th International Conference on Computational Linguistics.  [\[paper\]](https://aclanthology.org/2022.coling-1.523.pdf).
 
--[**COLING 2022**] A-TIP: Attribute-aware Text Infilling via Pre-trained Language Model.  **Dongyuan Li**, Jingyi You, Kotaro Funakoshi, Manabu Okumura.Proceedings of the 29th International Conference on Computational Linguistics, Oral Presentation. [\[paper\]](https://aclanthology.org/2022.coling-1.511.pdf).
+[**COLING 2022**] A-TIP: Attribute-aware Text Infilling via Pre-trained Language Model.  **Dongyuan Li**, Jingyi You, Kotaro Funakoshi, Manabu Okumura.Proceedings of the 29th International Conference on Computational Linguistics, Oral Presentation. [\[paper\]](https://aclanthology.org/2022.coling-1.511.pdf).
 
--[**NAACL 2022**] Joint learning-based heterogeneous graph attention network for timeline summarization.  Jingyi You, **Dongyuan Li**, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura. Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. [\[paper\]](https://aclanthology.org/2022.naacl-main.301.pdf).
+[**NAACL 2022**] Joint learning-based heterogeneous graph attention network for timeline summarization.  Jingyi You, **Dongyuan Li**, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura. Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. [\[paper\]](https://aclanthology.org/2022.naacl-main.301.pdf).
 
--[**IEEE CYB 2023**] Joint Learning of Feature Extraction and Clustering for Large-Scale Temporal Networks.  **Dongyuan Li**, Xiaoke Ma, Maoguo Gong. IEEE Transactions on Cybernetics,2022. [\[paper\]](https://drive.google.com/file/d/1lzP-F0yne9mbcvuwlQlp_mj1DO1XiuMZ/view); [\[code\]](https://github.com/Clearloveyuan/jLMDC).
+[**IEEE CYB 2023**] Joint Learning of Feature Extraction and Clustering for Large-Scale Temporal Networks.  **Dongyuan Li**, Xiaoke Ma, Maoguo Gong. IEEE Transactions on Cybernetics,2022. [\[paper\]](https://drive.google.com/file/d/1lzP-F0yne9mbcvuwlQlp_mj1DO1XiuMZ/view); [\[code\]](https://github.com/Clearloveyuan/jLMDC).
 
--[**KBS 2022**] Detecting dynamic community by fusing network embedding and nonnegative matrix factorization.  **Dongyuan Li**, Xiaoxiong Zhong, Zengfa Dou, Maoguo Gong, Xiaoke Ma. Knowledge-Based Systems, pp. 106961, 2021. [\[paper\]](https://drive.google.com/file/d/1Z92yKCZnsfc1UBb4akXvkKDnIPfzcxH_/view);[\[code\]](https://github.com/Clearloveyuan/SMFBC/tree/main/Baselines/NE2NMF).
+[**KBS 2022**] Detecting dynamic community by fusing network embedding and nonnegative matrix factorization.  **Dongyuan Li**, Xiaoxiong Zhong, Zengfa Dou, Maoguo Gong, Xiaoke Ma. Knowledge-Based Systems, pp. 106961, 2021. [\[paper\]](https://drive.google.com/file/d/1Z92yKCZnsfc1UBb4akXvkKDnIPfzcxH_/view);[\[code\]](https://github.com/Clearloveyuan/SMFBC/tree/main/Baselines/NE2NMF).
 
--[**Neurocomputing 2022**] Identification of dynamic community in temporal network via joint learning graph representation and nonnegative matrix factorization. **Dongyuan Li**, Qiang Lin, Xiaoke Ma, pp. 77-90, 2021.  [\[paper\]](https://drive.google.com/file/d/1bREsfCfUONdTRoZCVROKwaFu494AXw0H/view); [\[code\]](https://github.com/Clearloveyuan/jLDEC_demo). 
+[**Neurocomputing 2022**] Identification of dynamic community in temporal network via joint learning graph representation and nonnegative matrix factorization. **Dongyuan Li**, Qiang Lin, Xiaoke Ma, pp. 77-90, 2021.  [\[paper\]](https://drive.google.com/file/d/1bREsfCfUONdTRoZCVROKwaFu494AXw0H/view); [\[code\]](https://github.com/Clearloveyuan/jLDEC_demo). 
 
--[**IEEE TCBB 2022**] Dynamic module detection in temporal attributed networks of cancers.**Dongyuan Li**, Shuyao Zhang, Xiaoke Ma. IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol.19, no.4, pp.2219-2230, 2021. [\[paper\]](https://drive.google.com/file/d/1J_sbJZ0kuUoC9APiknQqn33IqCNCTbXm/view); [\[code\]](https://github.com/Clearloveyuan/IEEE-BIBM-TCBB).
+[**IEEE TCBB 2022**] Dynamic module detection in temporal attributed networks of cancers.**Dongyuan Li**, Shuyao Zhang, Xiaoke Ma. IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol.19, no.4, pp.2219-2230, 2021. [\[paper\]](https://drive.google.com/file/d/1J_sbJZ0kuUoC9APiknQqn33IqCNCTbXm/view); [\[code\]](https://github.com/Clearloveyuan/IEEE-BIBM-TCBB).
 
--[**BIBM 2021**] Nonnegative matrix factorization for dynamic modules in cancer attribute temporal networks.  **Dongyuan Li**, Xiaoke Ma. 2019 IEEE International Conference on Bioinformatics and Biomedicine, Oral Presentation. pp. 202-206, 2019. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8983045); [\[code\]](https://github.com/Clearloveyuan/IEEE-BIBM-TCBB).
+[**BIBM 2021**] Nonnegative matrix factorization for dynamic modules in cancer attribute temporal networks.  **Dongyuan Li**, Xiaoke Ma. 2019 IEEE International Conference on Bioinformatics and Biomedicine, Oral Presentation. pp. 202-206, 2019. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8983045); [\[code\]](https://github.com/Clearloveyuan/IEEE-BIBM-TCBB).
   
 
 # 📖 Educations
@@ -78,7 +78,7 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
 - National Science Foundation Graduate Fellowship (CASC), 2019-2020.
 
 # 📄 Academic Services
-- PC Members for DASSFA 2024.
+- PC Members for DASSFA 2024, IJCAI 2024, ACM MM 2024, ACL 2024.
 - Reviewer for Conferences: ICLR 2024, ACL 2022, NAACL 2022, IJCNN 2022, ICASSP 2023, ARR Openreview 2023.
 - Reviewer for Journal: IEEE CYB, IEEE TNNLS, IEEE Fuzzy System, IEEE TAFFC, IEEE Trans Multimedia, IEEE TETCI, Knowledge-based Systems, Scientific Reports, Computer Communications, ACM TKDD, CVIU, etc. 
 
