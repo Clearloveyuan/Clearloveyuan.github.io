@@ -26,9 +26,9 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
   
 # 📝 Selected Publications （* denotes Equal Contribution and # denotes Corresponding Author）
 
-- [**ICASSP 2024**] Multimodal Graph-Based Audio-Visual Event Localization. Zhen Wang*, Dongyuan Li*, Manabu Okumura IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
+- [**ICASSP 2024**] Multimodal Graph-Based Audio-Visual Event Localization. Zhen Wang\*, Dongyuan Li\*, Manabu Okumura IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 
-- [**ICASSP 2024**] Inter-Modality and Intra-Sample Alignment for Multi-Modal Emotion Recognition. Yusong Wang*, Dongyuan Li*, Jialun Shen IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
+- [**ICASSP 2024**] Inter-Modality and Intra-Sample Alignment for Multi-Modal Emotion Recognition. Yusong Wang\*, Dongyuan Li\*, Jialun Shen IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 
 - [**ASRU 2023**]  Active Learning Based Fine-Tuning Framework for Speech Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. IEEE Workshop on Automatic Speech Recognition and Understanding 2023. [\[Paper\]](https://arxiv.org/pdf/2310.00283.pdf).
 
