@@ -28,11 +28,15 @@ Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Ok
   
 # 📝 Selected Publications （* denotes Equal Contribution and # denotes Corresponding Author）
 
-- [**ICASSP 2024**] Multimodal Graph-Based Audio-Visual Event Localization. Zhen Wang\*, Dongyuan Li\*, Manabu Okumura IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
+- [**IEEE TNNLS 2024**] A Survey on Deep Active Learning: Recent Advances and New Frontiers   **Dongyuan Li**, Zhen Wang, Yankai Chen, Renhe Jiang, Weiping Ding and Manabu Okumura. IEEE Transactions on Neural Networks and Learning Systems, IEEE-TNNLS.
 
-- [**ICASSP 2024**] Inter-Modality and Intra-Sample Alignment for Multi-Modal Emotion Recognition. Yusong Wang\*, Dongyuan Li\*, Jialun Shen IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
+- [**JNLP 2023**] Active Learning with Task Adaptation Pre-training for Speech Emotion Recognition.   **Dongyuan Li**, Ying Zhang, Yusong Wang, Kataro Funakoshi and Manabu Okumura. Journal of Natural Language Processing 2024.
 
-- [**ASRU 2023**]  Active Learning Based Fine-Tuning Framework for Speech Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. IEEE Workshop on Automatic Speech Recognition and Understanding 2023. [\[Paper\]](https://arxiv.org/pdf/2310.00283.pdf).
+- [**ICASSP 2024**] Multimodal Graph-Based Audio-Visual Event Localization. Zhen Wang\*, Dongyuan Li\*, Manabu Okumura. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10448223).
+
+- [**ICASSP 2024**] Inter-Modality and Intra-Sample Alignment for Multi-Modal Emotion Recognition. Yusong Wang\*, Dongyuan Li\*#, Jialun Shen. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10446571). 
+
+- [**ASRU 2023**]  Active Learning Based Fine-Tuning Framework for Speech Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. IEEE Workshop on Automatic Speech Recognition and Understanding 2023. [\[Paper\]](https://arxiv.org/pdf/2310.00283.pdf), [\[Code\]](https://github.com/Clearloveyuan/AFTER).
 
 - [**EMNLP 2023**] Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. The 2023 Conference on Empirical Methods in Natural Language Processing. [\[Paper\]](https://aclanthology.org/2023.emnlp-main.996/), [\[Code\]](https://github.com/wykstc/MERC-main).
 
