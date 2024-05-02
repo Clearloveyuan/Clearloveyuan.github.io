@@ -19,6 +19,11 @@ redirect_from:
 
 Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Okumura-Funakoshi Lab](https://lr-www.pi.titech.ac.jp/wp/), Department of Information and Communication Engineering at [Tokyo Institute of Technology](https://www.first.iir.titech.ac.jp/), advised by Prof. [Okumura Manabu](http://www.lr.pi.titech.ac.jp/~oku/index-j.html) and Prof. [Funakoshi Kotaro](http://lr-www.pi.titech.ac.jp/~funakoshi/public/en/). My research interests lie in Machine Learning, Social Network Analysis and Natural Language Generation. 
 
+My favoriate words:
+
+Do not worry about your problems with mathematics, I assure you mine are far greater. --- From Albert Einstein
+
+
 
 # 🔥 News 2024
 - *2024.5.1*： &nbsp;🎉🎉 Congratulations to all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by 41st International Conference on Machine Learning (ICML 2024).
