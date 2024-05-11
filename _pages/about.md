@@ -34,9 +34,11 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
   
 # 📝 Selected Publications （* denotes Equal Contribution and # denotes Corresponding Author）
 
-- [**IEEE TNNLS 2024**] A Survey on Deep Active Learning: Recent Advances and New Frontiers   **Dongyuan Li**, Zhen Wang, Yankai Chen, Renhe Jiang, Weiping Ding and Manabu Okumura. IEEE Transactions on Neural Networks and Learning Systems, IEEE-TNNLS.
 
-- [**JNLP 2023**] Active Learning with Task Adaptation Pre-training for Speech Emotion Recognition.   **Dongyuan Li**, Ying Zhang, Yusong Wang, Kataro Funakoshi and Manabu Okumura. Journal of Natural Language Processing 2024.
+
+- [**IEEE TNNLS 2024**] A Survey on Deep Active Learning: Recent Advances and New Frontiers.   **Dongyuan Li**, Zhen Wang, Yankai Chen, Renhe Jiang, Weiping Ding and Manabu Okumura. IEEE Transactions on Neural Networks and Learning Systems, IEEE-TNNLS. [\[Paper\]](https://arxiv.org/pdf/2405.00334), [\[Code\]](https://github.com/Clearloveyuan/awesome-active-learning-New).
+
+- [**JNLP 2023**] Active Learning with Task Adaptation Pre-training for Speech Emotion Recognition.   **Dongyuan Li**, Ying Zhang, Yusong Wang, Kataro Funakoshi and Manabu Okumura. Journal of Natural Language Processing 2024. [\[Paper\]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Pgo9ZZ0AAAAJ&sortby=pubdate&citation_for_view=Pgo9ZZ0AAAAJ:4TOpqqG69KYC), [\[Code\]](https://github.com/Clearloveyuan/AFTER).
 
 - [**ICASSP 2024**] Multimodal Graph-Based Audio-Visual Event Localization. Zhen Wang\*, Dongyuan Li\*, Manabu Okumura. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10448223).
 
@@ -94,7 +96,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 - National Science Foundation Graduate Fellowship (CASC), 2019-2020.
 
 # 📄 Academic Services
-- PC Members for DASSFA 2024, IJCAI 2024, ACM MM 2024, ACL 2024.
+- PC Members for CIKM 2024, DASSFA 2024, IJCAI 2024, ACM MM 2024, ACL 2024.
 - Reviewer for Conferences: ICLR 2024, ACL 2022, NAACL 2022, IJCNN 2022, ICASSP 2023, ARR Openreview 2023.
 - Reviewer for Journal: IEEE CYB, IEEE TNNLS, IEEE Fuzzy System, IEEE TAFFC, IEEE Trans Multimedia, IEEE TETCI, Knowledge-based Systems, Scientific Reports, Computer Communications, ACM TKDD, CVIU, etc. 
 
