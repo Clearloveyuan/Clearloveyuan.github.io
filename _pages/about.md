@@ -96,7 +96,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 - National Science Foundation Graduate Fellowship (CASC), 2019-2020.
 
 # 📄 Academic Services
-- PC Members for CIKM 2024, DASSFA 2024, IJCAI 2024, ACM MM 2024, ACL 2024.
+- PC Members for NLPCC 2024, NeurIPS 2024, CIKM 2024, DASSFA 2024, IJCAI 2024, ACM MM 2024, ACL 2024.
 - Reviewer for Conferences: ICLR 2024, ACL 2022, NAACL 2022, IJCNN 2022, ICASSP 2023, ARR Openreview 2023.
 - Reviewer for Journal: IEEE CYB, IEEE TNNLS, IEEE Fuzzy System, IEEE TAFFC, IEEE Trans Multimedia, IEEE TETCI, Knowledge-based Systems, Scientific Reports, Computer Communications, ACM TKDD, CVIU, etc. 
 
