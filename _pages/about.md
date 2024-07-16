@@ -26,7 +26,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 
 
 # 🔥 News 2024
--- *2024.7.16*： &nbsp;🎉🎉 Congratulations to Zhen Wang and all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by ACM International Conference on MULTIMEDIA (MM 2024).
+- *2024.7.16*： &nbsp;🎉🎉 Congratulations to Zhen Wang and all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by ACM International Conference on MULTIMEDIA (MM 2024).
 - *2024.5.1*： &nbsp;🎉🎉 Congratulations to Shiyin Tan and all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by 41st International Conference on Machine Learning (ICML 2024).
 - *2024.4.23*： &nbsp;🎉🎉 Congratulations to all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS).
 - *2024.4.23*： &nbsp;🎉🎉 Congratulations to all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by Journal of Natural Language Processing (JNLP).
