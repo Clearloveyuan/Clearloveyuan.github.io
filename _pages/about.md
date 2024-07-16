@@ -36,6 +36,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 # 📝 Selected Publications （* denotes Equal Contribution and # denotes Corresponding Author）
 
 
+- [**ICML 2024**] Community-Invariant Graph Contrastive Learning, International Conference on Machine Learning, ICML-2024. [\[Paper\]](https://arxiv.org/abs/2405.01350), [\[Code\]](https://github.com/ShiyinTan/CI-GCL).
 
 - [**IEEE TNNLS 2024**] A Survey on Deep Active Learning: Recent Advances and New Frontiers.   **Dongyuan Li**, Zhen Wang, Yankai Chen, Renhe Jiang, Weiping Ding and Manabu Okumura. IEEE Transactions on Neural Networks and Learning Systems, IEEE-TNNLS. [\[Paper\]](https://arxiv.org/pdf/2405.00334), [\[Code\]](https://github.com/Clearloveyuan/awesome-active-learning-New).
 
