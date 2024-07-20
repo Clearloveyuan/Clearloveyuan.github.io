@@ -34,7 +34,6 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 - *2023.11.18*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by 30th International Conference on Multimedia Modeling. Towards Cross-modal Point Cloud Retrieval for Indoor Scenes. Fuyang Yu, Zhen Wang,  **Dongyuan Li**, Peide Zhu, Xiaochuan Wang, Xiaohui Liang, Manabu Okumura. (**MMM 2024**)
   
 # 📝 Selected Publications
- （* denotes Equal Contribution and # denotes Corresponding Author）
 
   
 
