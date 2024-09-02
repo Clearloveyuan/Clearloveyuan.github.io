@@ -33,7 +33,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 - *2024.4.23*： &nbsp;🎉🎉 Congratulations to all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS).
 - *2024.4.23*： &nbsp;🎉🎉 Congratulations to all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by Journal of Natural Language Processing (JNLP).
 - *2023.12.14*: &nbsp;🎉🎉 Congratulations to all collaborators!! &nbsp;🎉🎉 Our two paper has been Accepted by 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP-2024**).
-- *2023.11.18*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by 30th International Conference on Multimedia Modeling. Towards Cross-modal Point Cloud Retrieval for Indoor Scenes. Fuyang Yu, Zhen Wang,  **Dongyuan Li**, Peide Zhu, Xiaochuan Wang, Xiaohui Liang, Manabu Okumura. (**MMM 2024**)
+- *2023.11.18*: &nbsp;🎉🎉 Congratulations!! &nbsp;🎉🎉 Our paper has been Accepted by 30th International Conference on Multimedia Modeling. 
   
 # 📝 Selected Publications
  （* denotes Equal Contribution and # denotes Corresponding Author）
