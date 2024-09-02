@@ -26,6 +26,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 
 
 # 🔥 News
+- *2024.8.29*： &nbsp;🎉🎉 Congratulations to Yusong Wang and all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by PRICAI-2024.
 - *2024.7.16*： &nbsp;🎉🎉 Congratulations to Zhen Wang and all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by ACM International Conference on MULTIMEDIA (MM 2024).
 - *2024.5.1*： &nbsp;🎉🎉 Congratulations to Shiyin Tan and all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by 41st International Conference on Machine Learning (ICML 2024).
 - *2024.4.23*： &nbsp;🎉🎉 Congratulations to all collaborators!! &nbsp;🎉🎉 Our one paper has been Accepted by IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS).
@@ -35,6 +36,8 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
   
 # 📝 Selected Publications
  （* denotes Equal Contribution and # denotes Corresponding Author）
+- [**PRICAI 2024**] FINE-LMT: Fine-grained Feature Learning for Multi-Modal Machine Translation. Yusong Wang, Ying Zhang, Dongyuan Li\#, Jialun Shen, Yicheng Xu, Mingkun Xu, Kotaro Funakoshi and Manabu Okumura.
+- [**Arxiv 2024**] DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs. Dongyuan Li, Shiyin Tan, Ying Zhang, Ming Jin, Shirui Pan, Manabu Okumura, Renhe Jiang. [\[Paper\]](https://arxiv.org/pdf/2408.06966).
 - [**Arxiv 2024**] Reconsidering Token Embeddings with the Definitions for Pre-trained Language Models. Ying Zhang, Dongyuan Li, Mamabu Okumura. 
 - [**MM 2024**] Multimodal Low-light Image Enhancement with Depth Information, ACM MM-2024. Zhen Wang\*, Dongyuan Li\*, Guang Li, Ziqing Zhang, Renhe Jiang. [\[Paper\]](https://openreview.net/forum?id=Tsz6Kra6fX), [\[Code\]](https://openreview.net/forum?id=Tsz6Kra6fX).
 - [**ICML 2024**] Community-Invariant Graph Contrastive Learning, International Conference on Machine Learning, ICML-2024. Shiyin Tan\*, Dongyuan Li\*, Renhe Jiang, Ying Zhang, Manabu Okumura. [\[Paper\]](https://arxiv.org/abs/2405.01350), [\[Code\]](https://github.com/ShiyinTan/CI-GCL).
