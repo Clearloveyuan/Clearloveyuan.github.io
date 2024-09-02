@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Dongyuan Li (李东远). I am a second year Ph.D. student in the [Okumura-Funakoshi Lab](https://lr-www.pi.titech.ac.jp/wp/), Department of Information and Communication Engineering at [Tokyo Institute of Technology](https://www.first.iir.titech.ac.jp/), advised by Prof. [Funakoshi Kotaro](http://lr-www.pi.titech.ac.jp/~funakoshi/public/en/) and Prof. [Okumura Manabu](http://www.lr.pi.titech.ac.jp/~oku/index-j.html). My research interests lie in Machine Learning, Social Network Analysis and Natural Language Generation. 
 
-My favoriate words:
+Hello, I am Dongyuan Li (李东远). I am an incoming Assistant Professor in The University of Tokyo. I have obtained my Ph.D in the [Okumura-Funakoshi Lab](https://lr-www.pi.titech.ac.jp/wp/), Department of Information and Communication Engineering at [Tokyo Institute of Technology](https://www.first.iir.titech.ac.jp/), advised by Prof. [Funakoshi Kotaro](http://lr-www.pi.titech.ac.jp/~funakoshi/public/en/) and Prof. [Okumura Manabu](http://www.lr.pi.titech.ac.jp/~oku/index-j.html). My research interests lie in Machine Learning, Social Network Analysis and Natural Language Generation. 
+
+**My favoriate words**:
 
 Do not worry about your problems with mathematics, I assure you mine are far greater. --- From Albert Einstein
 
@@ -38,7 +39,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
  （* denotes Equal Contribution and # denotes Corresponding Author）
 - [**PRICAI 2024**] FINE-LMT: Fine-grained Feature Learning for Multi-Modal Machine Translation. Yusong Wang, Ying Zhang, Dongyuan Li\#, Jialun Shen, Yicheng Xu, Mingkun Xu, Kotaro Funakoshi and Manabu Okumura.
 - [**Arxiv 2024**] DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs. Dongyuan Li, Shiyin Tan, Ying Zhang, Ming Jin, Shirui Pan, Manabu Okumura, Renhe Jiang. [\[Paper\]](https://arxiv.org/pdf/2408.06966).
-- [**Arxiv 2024**] Reconsidering Token Embeddings with the Definitions for Pre-trained Language Models. Ying Zhang, Dongyuan Li, Mamabu Okumura. 
+- [**Arxiv 2024**] Reconsidering Token Embeddings with the Definitions for Pre-trained Language Models. Ying Zhang, Dongyuan Li, Mamabu Okumura. [\[Paper\]](https://arxiv.org/abs/2408.01308).
 - [**MM 2024**] Multimodal Low-light Image Enhancement with Depth Information, ACM MM-2024. Zhen Wang\*, Dongyuan Li\*, Guang Li, Ziqing Zhang, Renhe Jiang. [\[Paper\]](https://openreview.net/forum?id=Tsz6Kra6fX), [\[Code\]](https://openreview.net/forum?id=Tsz6Kra6fX).
 - [**ICML 2024**] Community-Invariant Graph Contrastive Learning, International Conference on Machine Learning, ICML-2024. Shiyin Tan\*, Dongyuan Li\*, Renhe Jiang, Ying Zhang, Manabu Okumura. [\[Paper\]](https://arxiv.org/abs/2405.01350), [\[Code\]](https://github.com/ShiyinTan/CI-GCL).
 - [**IEEE TNNLS 2024**] A Survey on Deep Active Learning: Recent Advances and New Frontiers.   **Dongyuan Li**, Zhen Wang, Yankai Chen, Renhe Jiang, Weiping Ding and Manabu Okumura. IEEE Transactions on Neural Networks and Learning Systems, IEEE-TNNLS. [\[Paper\]](https://arxiv.org/pdf/2405.00334), [\[Code\]](https://github.com/Clearloveyuan/awesome-active-learning-New).
