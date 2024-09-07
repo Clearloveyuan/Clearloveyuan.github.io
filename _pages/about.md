@@ -27,13 +27,13 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 
 
 # 🔥 News
-[*2024.8.29*] &nbsp;🎉🎉 One paper has been Accepted by PRICAI-2024.
-[*2024.7.16*] &nbsp;🎉🎉 One paper has been Accepted by ACM International Conference on MULTIMEDIA (MM 2024).
-[*2024.5.1*] &nbsp;🎉🎉  One paper has been Accepted by 41st International Conference on Machine Learning (ICML 2024).
-[*2024.4.23*] &nbsp;🎉🎉 One paper has been Accepted by IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS).
-[*2024.4.23*] &nbsp;🎉🎉 One paper has been Accepted by Journal of Natural Language Processing (JNLP).
-[*2023.12.14*] &nbsp;🎉🎉 Two paper has been Accepted by 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP-2024**).
-[*2023.11.18*] &nbsp;🎉🎉 One paper has been Accepted by 30th International Conference on Multimedia Modeling. 
+[*2024.8.29*]  &nbsp;🎉🎉 One paper has been Accepted by PRICAI-2024.\
+[*2024.7.16*]  &nbsp;🎉🎉 One paper has been Accepted by ACM International Conference on MULTIMEDIA (MM 2024).\
+[*2024.5.1*]   &nbsp;🎉🎉  One paper has been Accepted by 41st International Conference on Machine Learning (ICML 2024).\
+[*2024.4.23*]  &nbsp;🎉🎉 One paper has been Accepted by IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS).\
+[*2024.4.23*]  &nbsp;🎉🎉 One paper has been Accepted by Journal of Natural Language Processing (JNLP).\
+[*2023.12.14*] &nbsp;🎉🎉 Two paper has been Accepted by ICASSP-2024.\
+[*2023.11.18*] &nbsp;🎉🎉 One paper has been Accepted by 30th International Conference on Multimedia Modeling.
   
 # 📝 Selected Publications
  （* denotes Equal Contribution and # denotes Corresponding Author）
