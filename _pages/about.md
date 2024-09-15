@@ -43,7 +43,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 - [**MM24**] [**\[Arxiv\]**](https://openreview.net/forum?id=Tsz6Kra6fX) Multimodal Low-light Image Enhancement with Depth Information, ACM MM-2024. Zhen Wang\*, Dongyuan Li\*, Guang Li, Ziqing Zhang, Renhe Jiang. 
 - [**\[ICML24\]**](https://openreview.net/forum?id=dskLpg8WFb) [**\[Arxiv\]**](https://arxiv.org/abs/2405.01350) Community-Invariant Graph Contrastive Learning, International Conference on Machine Learning, ICML-2024. Shiyin Tan\*, Dongyuan Li\*, Renhe Jiang, Ying Zhang, Manabu Okumura. 
 - [**\[TNNLS24\]**](https://arxiv.org/pdf/2405.00334),  A Survey on Deep Active Learning: Recent Advances and New Frontiers.   **Dongyuan Li**, Zhen Wang, Yankai Chen, Renhe Jiang, Weiping Ding and Manabu Okumura. IEEE Transactions on Neural Networks and Learning Systems, IEEE-TNNLS. [\[Code\]](https://github.com/Clearloveyuan/awesome-active-learning-New).
-- [**\[JNLP24\]**] [**\[Arxiv\]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Pgo9ZZ0AAAAJ&sortby=pubdate&citation_for_view=Pgo9ZZ0AAAAJ:4TOpqqG69KYC) Active Learning with Task Adaptation Pre-training for Speech Emotion Recognition.   **Dongyuan Li**, Ying Zhang, Yusong Wang, Kataro Funakoshi and Manabu Okumura. Journal of Natural Language Processing 2024.
+- [JNLP24] [**\[Arxiv\]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Pgo9ZZ0AAAAJ&sortby=pubdate&citation_for_view=Pgo9ZZ0AAAAJ:4TOpqqG69KYC) Active Learning with Task Adaptation Pre-training for Speech Emotion Recognition.   **Dongyuan Li**, Ying Zhang, Yusong Wang, Kataro Funakoshi and Manabu Okumura. Journal of Natural Language Processing 2024.
 - [**\[ICASSP24\]**](https://ieeexplore.ieee.org/abstract/document/10448223)  Multimodal Graph-Based Audio-Visual Event Localization. Zhen Wang\*, Dongyuan Li\*, Manabu Okumura. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 - [**\[ICASSP24\]**](https://ieeexplore.ieee.org/abstract/document/10446571) Inter-Modality and Intra-Sample Alignment for Multi-Modal Emotion Recognition. Yusong Wang\*, Dongyuan Li\*#, Jialun Shen. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 - [**\[ASRU23\]**](https://arxiv.org/pdf/2310.00283.pdf)  Active Learning Based Fine-Tuning Framework for Speech Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. IEEE Workshop on Automatic Speech Recognition and Understanding 2023.
@@ -88,16 +88,12 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 # 📄 Academic Services
 - NeurIPS Program Committee Member 2024
 - ICLR Program Committee Member 2024
-- ACL Program Committee Member 2022, 2023, 2024
-- EMNLP Program Committee Member 2022, 2023, 2024, 2025
-- NAACL Program Committee Member 2022, 2023, 2024
-- COLING Program Committee Member 2022, 2023, 2024
+- ACL/EMNLP/NAACL Program Committee Member 2022, 2023, 2024, 2025
 - KDD Research Track Program Committee Member 2024, 2025
 - ICDE Program Committee Member 2025
 - DASSFA Program Committee Member 2024
 - CIKM Program Committee Member 2024
 - IJCAI Program Committee Member 2023, 2024
-- ICASSP Program Committee Member 2023, 2024, 2025
 - ACM MM Program Committee Member 2024
 - Reviewer for Journal: IEEE CYB, IEEE TNNLS, IEEE Fuzzy System, IEEE TAFFC, IEEE Trans Multimedia, IEEE TETCI, Knowledge-based Systems, Scientific Reports, Computer Communications, ACM TKDD, CVIU, etc. 
 
