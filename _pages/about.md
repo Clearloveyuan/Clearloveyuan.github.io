@@ -27,6 +27,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 
 
 # 🔥 News
+[*2024.9.22*]  &nbsp;🎉🎉 Two paper has been Accepted by EMNLP-2024.\
 [*2024.8.29*]  &nbsp;🎉🎉 One paper has been Accepted by PRICAI-2024.\
 [*2024.7.16*]  &nbsp;🎉🎉 One paper has been Accepted by ACM International Conference on MULTIMEDIA (MM 2024).\
 [*2024.5.1*]   &nbsp;🎉🎉  One paper has been Accepted by 41st International Conference on Machine Learning (ICML 2024).\
