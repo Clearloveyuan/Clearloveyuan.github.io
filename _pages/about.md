@@ -39,13 +39,13 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
   
 # 📝 Selected Publications
  （* denotes Equal Contribution and # denotes Corresponding Author）
+- [**Preprint**] [**\[Arxiv\]**](https://arxiv.org/pdf/2408.06966) DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs. **Dongyuan Li**, Shiyin Tan, Ying Zhang, Ming Jin, Shirui Pan, Manabu Okumura, Renhe Jiang.
+- [**Preprint**] [**\[Arxiv\]**](https://arxiv.org/abs/2408.01308) Reconsidering Token Embeddings with the Definitions for Pre-trained Language Models. Ying Zhang, **Dongyuan Li**, Mamabu Okumura.
 - [**PACLIC24**] LPLS: A Selection Strategy Based on Pseudo-Labeling Status for Semi-Supervised Active Learning in Text Classification. Chun-Fang Chuang, **Dongyuan Li**, Satoshi Kosugi, Kotaro Funakoshi, Manabu Okumura.
 - [**MLNLP24**] ELDA: Enhancing Multi-modal Machine Translation via Large Language Model-Driven Data Augmentation. Yusong Wang, **Dongyuan Li**, Jialun Shen, Yicheng Xu, Zhong Shuai, Mingkun Xu.
 - [**EMNLP24**] LAMBDA: Large Language Model-Based Data Augmentation for Multi-Modal Machine Translation. Yusong Wang, **Dongyuan Li**, Jialun Shen, Yicheng Xu, Mingkun Xu, Kotaro Funakoshi, Manabu Okumura.
 - [**EMNLP24**] Active Learning for Abstractive Text Summarization via LLM-Determined Curriculum and Certainty Gain Maximization. **Dongyuan Li**, Ying Zhang, Zhen Wang, Shiyin Tan, Satoshi Kosugi, Manabu Okumura.
 - [**PRICAI24**] FINE-LMT: Fine-grained Feature Learning for Multi-Modal Machine Translation. Yusong Wang, Ying Zhang, **Dongyuan Li**\#, Jialun Shen, Yicheng Xu, Mingkun Xu, Kotaro Funakoshi and Manabu Okumura.
-- [**Preprint**] [**\[Arxiv\]**](https://arxiv.org/pdf/2408.06966) DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs. **Dongyuan Li**, Shiyin Tan, Ying Zhang, Ming Jin, Shirui Pan, Manabu Okumura, Renhe Jiang.
-- [**Preprint**] [**\[Arxiv\]**](https://arxiv.org/abs/2408.01308) Reconsidering Token Embeddings with the Definitions for Pre-trained Language Models. Ying Zhang, **Dongyuan Li**, Mamabu Okumura.
 - [**MM24**] [**\[Arxiv\]**](https://openreview.net/forum?id=Tsz6Kra6fX) Multimodal Low-light Image Enhancement with Depth Information, ACM MM-2024. Zhen Wang\*, **Dongyuan Li**\*, Guang Li, Ziqing Zhang, Renhe Jiang. 
 - [**\[ICML24\]**](https://openreview.net/forum?id=dskLpg8WFb) [**\[Arxiv\]**](https://arxiv.org/abs/2405.01350) Community-Invariant Graph Contrastive Learning, International Conference on Machine Learning, ICML-2024. Shiyin Tan\*, **Dongyuan Li**\*, Renhe Jiang, Ying Zhang, Manabu Okumura. 
 - [**\[TNNLS24\]**](https://arxiv.org/pdf/2405.00334),  A Survey on Deep Active Learning: Recent Advances and New Frontiers.   **Dongyuan Li**, Zhen Wang, Yankai Chen, Renhe Jiang, Weiping Ding and Manabu Okumura. IEEE Transactions on Neural Networks and Learning Systems, IEEE-TNNLS. [\[Code\]](https://github.com/Clearloveyuan/awesome-active-learning-New).
