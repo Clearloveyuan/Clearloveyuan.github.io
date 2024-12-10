@@ -28,16 +28,15 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 
 
 # 🔥 News
-[*2024.12.10*] &nbsp;🎉🎉 Two co-authoer paper has been Accepted by AAAI-2025.\
+[*2024.12.10*] &nbsp;🎉🎉 Two co-authoer papers have been Accepted by AAAI-2025.\
 [*2024.12.09*] &nbsp;🎉🎉 Our paper LPLS has obtained the Best Paper Award of PACLIC-2024.\
-[*2024.09.22*] &nbsp;🎉🎉 Two paper has been Accepted by EMNLP-2024.\
+[*2024.09.22*] &nbsp;🎉🎉 Two paper have been Accepted by EMNLP-2024.\
 [*2024.08.29*] &nbsp;🎉🎉 One paper has been Accepted by PRICAI-2024.\
 [*2024.07.16*] &nbsp;🎉🎉 One paper has been Accepted by ACM International Conference on MULTIMEDIA (MM 2024).\
 [*2024.05.01*] &nbsp;🎉🎉 One paper has been Accepted by 41st International Conference on Machine Learning (ICML 2024).\
 [*2024.04.23*] &nbsp;🎉🎉 One paper has been Accepted by IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS).\
 [*2024.04.23*] &nbsp;🎉🎉 One paper has been Accepted by Journal of Natural Language Processing (JNLP).\
-[*2023.12.14*] &nbsp;🎉🎉 Two paper has been Accepted by ICASSP-2024.\
-[*2023.11.18*] &nbsp;🎉🎉 One paper has been Accepted by 30th International Conference on Multimedia Modeling.
+[*2024.01.14*] &nbsp;🎉🎉 Two paper have been Accepted by ICASSP-2024.\
   
 # 📝 Selected Publications
  （* denotes Equal Contribution and # denotes Corresponding Author）
