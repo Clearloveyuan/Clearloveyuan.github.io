@@ -29,7 +29,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 
 # 🔥 News
 [*2024.12.10*]  &nbsp;🎉🎉 Two co-authoer paper has been Accepted by AAAI-2025.\
-[*2024.12.11*]  &nbsp;🎉🎉 Our paper LPLS has obtained the Best Paper Award of PACLIC-2024.\
+[*2024.12.9*]  &nbsp;🎉🎉 Our paper LPLS has obtained the Best Paper Award of PACLIC-2024.\
 [*2024.9.22*]  &nbsp;🎉🎉 Two paper has been Accepted by EMNLP-2024.\
 [*2024.8.29*]  &nbsp;🎉🎉 One paper has been Accepted by PRICAI-2024.\
 [*2024.7.16*]  &nbsp;🎉🎉 One paper has been Accepted by ACM International Conference on MULTIMEDIA (MM 2024).\
