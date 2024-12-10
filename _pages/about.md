@@ -28,6 +28,8 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 
 
 # 🔥 News
+[*2024.12.10*]  &nbsp;🎉🎉 Two co-authoer paper has been Accepted by AAAI-2025.\
+[*2024.12.11*]  &nbsp;🎉🎉 Our paper LPLS has obtained the Best Paper Award of PACLIC-2024.\
 [*2024.9.22*]  &nbsp;🎉🎉 Two paper has been Accepted by EMNLP-2024.\
 [*2024.8.29*]  &nbsp;🎉🎉 One paper has been Accepted by PRICAI-2024.\
 [*2024.7.16*]  &nbsp;🎉🎉 One paper has been Accepted by ACM International Conference on MULTIMEDIA (MM 2024).\
@@ -41,7 +43,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
  （* denotes Equal Contribution and # denotes Corresponding Author）
 - [**Preprint**] [**\[Arxiv\]**](https://arxiv.org/pdf/2408.06966) DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs. **Dongyuan Li**, Shiyin Tan, Ying Zhang, Ming Jin, Shirui Pan, Manabu Okumura, Renhe Jiang.
 - [**Preprint**] [**\[Arxiv\]**](https://arxiv.org/abs/2408.01308) Reconsidering Token Embeddings with the Definitions for Pre-trained Language Models. Ying Zhang, **Dongyuan Li**, Mamabu Okumura.
-- [**PACLIC24**] LPLS: A Selection Strategy Based on Pseudo-Labeling Status for Semi-Supervised Active Learning in Text Classification. Chun-Fang Chuang, **Dongyuan Li**, Satoshi Kosugi, Kotaro Funakoshi, Manabu Okumura.
+- [**PACLIC24**] LPLS: A Selection Strategy Based on Pseudo-Labeling Status for Semi-Supervised Active Learning in Text Classification. Chun-Fang Chuang, **Dongyuan Li**, Satoshi Kosugi, Kotaro Funakoshi, Manabu Okumura **(Best Paper Award)**.
 - [**MLNLP24**] ELDA: Enhancing Multi-modal Machine Translation via Large Language Model-Driven Data Augmentation. Yusong Wang, **Dongyuan Li**, Jialun Shen, Yicheng Xu, Zhong Shuai, Mingkun Xu.
 - [**EMNLP24**] LAMBDA: Large Language Model-Based Data Augmentation for Multi-Modal Machine Translation. Yusong Wang, **Dongyuan Li**, Jialun Shen, Yicheng Xu, Mingkun Xu, Kotaro Funakoshi, Manabu Okumura.
 - [**EMNLP24**] Active Learning for Abstractive Text Summarization via LLM-Determined Curriculum and Certainty Gain Maximization. **Dongyuan Li**, Ying Zhang, Zhen Wang, Shiyin Tan, Satoshi Kosugi, Manabu Okumura.
