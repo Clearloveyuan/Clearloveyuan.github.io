@@ -31,19 +31,16 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 [*2024.12.10*] &nbsp;🎉🎉 Two co-authoer papers have been Accepted by AAAI-2025.\
 [*2024.12.09*] &nbsp;🎉🎉 Our paper LPLS has obtained the Best Paper Award of PACLIC-2024.\
 [*2024.09.22*] &nbsp;🎉🎉 Two paper have been Accepted by EMNLP-2024.\
-[*2024.08.29*] &nbsp;🎉🎉 One paper has been Accepted by PRICAI-2024.\
 [*2024.07.16*] &nbsp;🎉🎉 One paper has been Accepted by ACM International Conference on MULTIMEDIA (MM 2024).\
 [*2024.05.01*] &nbsp;🎉🎉 One paper has been Accepted by 41st International Conference on Machine Learning (ICML 2024).\
 [*2024.04.23*] &nbsp;🎉🎉 One paper has been Accepted by IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS).\
-[*2024.04.23*] &nbsp;🎉🎉 One paper has been Accepted by Journal of Natural Language Processing (JNLP).\
-[*2024.01.14*] &nbsp;🎉🎉 Two paper have been Accepted by ICASSP-2024.\
+[*2024.04.23*] &nbsp;🎉🎉 One paper has been Accepted by Journal of Natural Language Processing (JNLP).
   
 # 📝 Selected Publications
  （* denotes Equal Contribution and # denotes Corresponding Author）
 - [**Preprint**] [**\[Arxiv\]**](https://arxiv.org/pdf/2408.06966) DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs. **Dongyuan Li**, Shiyin Tan, Ying Zhang, Ming Jin, Shirui Pan, Manabu Okumura, Renhe Jiang.
 - [**Preprint**] [**\[Arxiv\]**](https://arxiv.org/abs/2408.01308) Reconsidering Token Embeddings with the Definitions for Pre-trained Language Models. Ying Zhang, **Dongyuan Li**, Mamabu Okumura.
 - [**PACLIC24**] LPLS: A Selection Strategy Based on Pseudo-Labeling Status for Semi-Supervised Active Learning in Text Classification. Chun-Fang Chuang, **Dongyuan Li**, Satoshi Kosugi, Kotaro Funakoshi, Manabu Okumura **(Best Paper Award)**.
-- [**MLNLP24**] ELDA: Enhancing Multi-modal Machine Translation via Large Language Model-Driven Data Augmentation. Yusong Wang, **Dongyuan Li**, Jialun Shen, Yicheng Xu, Zhong Shuai, Mingkun Xu.
 - [**EMNLP24**] LAMBDA: Large Language Model-Based Data Augmentation for Multi-Modal Machine Translation. Yusong Wang, **Dongyuan Li**, Jialun Shen, Yicheng Xu, Mingkun Xu, Kotaro Funakoshi, Manabu Okumura.
 - [**EMNLP24**] Active Learning for Abstractive Text Summarization via LLM-Determined Curriculum and Certainty Gain Maximization. **Dongyuan Li**, Ying Zhang, Zhen Wang, Shiyin Tan, Satoshi Kosugi, Manabu Okumura.
 - [**PRICAI24**] FINE-LMT: Fine-grained Feature Learning for Multi-Modal Machine Translation. Yusong Wang, Ying Zhang, **Dongyuan Li**\#, Jialun Shen, Yicheng Xu, Mingkun Xu, Kotaro Funakoshi and Manabu Okumura.
@@ -52,7 +49,6 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 - [**\[TNNLS24\]**](https://arxiv.org/pdf/2405.00334),  A Survey on Deep Active Learning: Recent Advances and New Frontiers.   **Dongyuan Li**, Zhen Wang, Yankai Chen, Renhe Jiang, Weiping Ding and Manabu Okumura. IEEE Transactions on Neural Networks and Learning Systems, IEEE-TNNLS. [\[Code\]](https://github.com/Clearloveyuan/awesome-active-learning-New).
 - [JNLP24] [**\[Arxiv\]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Pgo9ZZ0AAAAJ&sortby=pubdate&citation_for_view=Pgo9ZZ0AAAAJ:4TOpqqG69KYC) Active Learning with Task Adaptation Pre-training for Speech Emotion Recognition.   **Dongyuan Li**, Ying Zhang, Yusong Wang, Kataro Funakoshi and Manabu Okumura. Journal of Natural Language Processing 2024.
 - [**\[ICASSP24\]**](https://ieeexplore.ieee.org/abstract/document/10448223)  Multimodal Graph-Based Audio-Visual Event Localization. Zhen Wang\*, Dongyuan Li\*, Manabu Okumura. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
-- [**\[ICASSP24\]**](https://ieeexplore.ieee.org/abstract/document/10446571) Inter-Modality and Intra-Sample Alignment for Multi-Modal Emotion Recognition. Yusong Wang\*, Dongyuan Li\*#, Jialun Shen. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 - [**\[ASRU23\]**](https://arxiv.org/pdf/2310.00283.pdf)  Active Learning Based Fine-Tuning Framework for Speech Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. IEEE Workshop on Automatic Speech Recognition and Understanding 2023.
 - [**\[EMNLP23\]**](https://aclanthology.org/2023.emnlp-main.996/) Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition. **Dongyuan Li**, Yusong Wang, Kataro Funakoshi and Manabu Okumura. [\[Code\]](https://github.com/wykstc/MERC-main).
 - [**\[CIKM23\]**](https://dl.acm.org/doi/10.1145/3583780.3615231) Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction.**Dongyuan Li**, Shiyin Tan, Yusong Wang, Kataro Funakoshi and Manabu Okumura. 32nd ACM International Conference on Information and Knowledge Management. [\[Code\]](https://anonymous.4open.science/r/Melt-712F/README.md). 
