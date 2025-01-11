@@ -67,8 +67,8 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
   
 
 # 📖 Educations
-- *2023.10 - (now)*, visiting students in The University of Tokyo, advised by Prof.[Renhe Jiang](https://www.renhejiang.com/).
-- *2021.09 - (now)*, doctoral student in the Department of Information and Communications Engineering of Tokyo Institute of Technology, advised by Prof. [Satoshi Kosugi](https://satoshi-kosugi.github.io/index.html), Prof. [Funakoshi Kotaro](http://lr-www.pi.titech.ac.jp/~funakoshi/public/en/) and Prof. [Okumura Manabu](http://www.lr.pi.titech.ac.jp/~oku/index-j.html).
+- *2023.10 - 2024.09*, visiting students in The University of Tokyo, advised by Prof.[Renhe Jiang](https://www.renhejiang.com/).
+- *2021.09 - 2024.09*, doctoral student in the Department of Information and Communications Engineering of Tokyo Institute of Technology, advised by Prof. [Satoshi Kosugi](https://satoshi-kosugi.github.io/index.html), Prof. [Funakoshi Kotaro](http://lr-www.pi.titech.ac.jp/~funakoshi/public/en/) and Prof. [Okumura Manabu](http://www.lr.pi.titech.ac.jp/~oku/index-j.html).
 - *2018.09 - 2021.10*, master student in the Department of Computer Science and Technology of Xidian University, advised by Prof. [Xiaoke Ma](https://web.xidian.edu.cn/xkma/).
 - *2013.09 - 2018.06*, undergraduate student in the Department of Computer Science and Technology of Dalian University of Technology(DUT), advised by Prof. [Nan Ding](http://faculty.dlut.edu.cn/2005011019/zh_CN/index.htm) and [Nianmin Yao](http://faculty.dlut.edu.cn/lucos/zh_CN/index.htm).
 
