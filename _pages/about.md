@@ -91,14 +91,15 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 - National Science Foundation Graduate Fellowship (CASC), 2019-2020.
 
 # 📄 Academic Services
+- ICML Program Committee Member 2025
 - NeurIPS Program Committee Member 2024
-- ICLR Program Committee Member 2024
+- ICLR Program Committee Member 2024, 2025
 - ACL/EMNLP/NAACL Program Committee Member 2022, 2023, 2024, 2025
 - KDD Research Track Program Committee Member 2024, 2025
 - ICDE Program Committee Member 2025
-- DASSFA Program Committee Member 2024
+- SIGIR Program Committee Member 2025
+- IJCAI Program Committee Member 2023, 2024, 2025
 - CIKM Program Committee Member 2024
-- IJCAI Program Committee Member 2023, 2024
 - ACM MM Program Committee Member 2024
 - Reviewer for Journal: IEEE CYB, IEEE TNNLS, IEEE Fuzzy System, IEEE TAFFC, IEEE Trans Multimedia, IEEE TETCI, Knowledge-based Systems, Scientific Reports, Computer Communications, ACM TKDD, CVIU, etc. 
 
