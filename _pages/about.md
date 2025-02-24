@@ -28,7 +28,7 @@ Do not worry about your problems with mathematics, I assure you mine are far gre
 
 
 # 🔥 News
-[*2025.01.25*] &nbsp;🎉🎉 One co-authoer paper has been Accepted by ICLR-2025.\
+[*2025.01.25*] &nbsp;🎉🎉 One paper has been Accepted by ICLR-2025.\
 [*2025.01.25*] &nbsp;🎉🎉 One paper has been Accepted by The Web Conference 2025.\
 [*2024.12.10*] &nbsp;🎉🎉 Two co-authoer papers have been Accepted by AAAI-2025.\
 [*2024.12.09*] &nbsp;🎉🎉 Our paper LPLS has obtained the Best Paper Award of PACLIC-2024.\
