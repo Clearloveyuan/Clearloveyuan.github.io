@@ -21,9 +21,7 @@ redirect_from:
 Hello, I am Dongyuan Li (李东远). I am currently an Assistant Professor in The University of Tokyo, advised by Prof. [Renhe Jiang](https://www.renhejiang.com/).
 And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the [Okumura-Funakoshi Lab](https://lr-www.pi.titech.ac.jp/wp/), Department of Information and Communication Engineering at [Tokyo Institute of Technology](https://www.first.iir.titech.ac.jp/), advised by Prof. [Satoshi Kosugi](https://satoshi-kosugi.github.io/index.html), Prof. [Funakoshi Kotaro](http://lr-www.pi.titech.ac.jp/~funakoshi/public/en/) and Prof. [Okumura Manabu](http://www.lr.pi.titech.ac.jp/~oku/index-j.html). My research interests lie in Machine Learning, Social Network Analysis and Natural Language Generation. 
 
-**My favoriate words**:
-
-Do not worry about your problems with mathematics, I assure you mine are far greater. --- From Albert Einstein
+**致力于：做点有用有趣的小玩意**
 
 
 
