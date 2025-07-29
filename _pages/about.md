@@ -26,6 +26,7 @@ And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the
 
 
 # 🔥 News
+[*2025.07.15*] &nbsp;🎉🎉 One paper has been Accepted by SIGKDD-2025 (Best Student Paper Award).\
 [*2025.04.15*] &nbsp;🎉🎉 One paper has been Accepted by SIGIR-2025.\
 [*2025.03.15*] &nbsp;🎉🎉 One paper has been Accepted by KBS-2025.\
 [*2025.01.25*] &nbsp;🎉🎉 One paper has been Accepted by ICLR-2025.\
