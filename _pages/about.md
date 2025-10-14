@@ -26,6 +26,7 @@ And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the
 
 
 # 🔥 News
+[*2025.10.10*] &nbsp;🎉🎉 I am serving as an Area Chair for ACL-2026.\
 [*2025.09.19*] &nbsp;🎉🎉 Our DyG-Mamba has been Accepted by NeurIPS-2025.\
 [*2025.08.21*] &nbsp;🎉🎉 Three papers have been Accepted by EMNLP-2025.\
 [*2025.07.15*] &nbsp;🎉🎉 One paper has been Accepted by SIGKDD-2025 (Best Student Paper Award).\
