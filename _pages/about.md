@@ -26,7 +26,7 @@ And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the
 
 
 # 🔥 News
-[*2025.10.10*] &nbsp;🎉🎉 I am serving as an Area Chair for ACL-2026.\
+[*2025.10.10*] &nbsp;🎉🎉 I am serving as an Area Chair for ACL-2026 and ICASSP-2026\
 [*2025.09.19*] &nbsp;🎉🎉 Our DyG-Mamba has been Accepted by NeurIPS-2025.\
 [*2025.08.21*] &nbsp;🎉🎉 Three papers have been Accepted by EMNLP-2025.\
 [*2025.07.15*] &nbsp;🎉🎉 One paper has been Accepted by SIGKDD-2025 (Best Student Paper Award).\
@@ -101,7 +101,7 @@ And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the
 - Program Committee Member for AAAI/IJCAI/MM 2023--2025
 - Program Committee Member ICML/NeurIPS/ICLR  2024--2026
 - Program Committee Member for WWW/KDD/ICDE/SIGIR 2024--2026
-- Research Track for ICASSP/INTERSPEEC/IEEE-TASLP 2024-2026
+- Program Committee Member for ICASSP/INTERSPEEC/IEEE-TASLP 2024-2026
 - Reviewer for Journal: IEEE TPAMI, IEEE TKDE, IEEE CYB, IEEE TNNLS, IEEE Fuzzy System, IEEE TAFFC, IEEE Trans Multimedia, IEEE TETCI, Knowledge-based Systems, Scientific Reports, Computer Communications, ACM TKDD, CVIU, etc. 
 
 <a href="https://info.flagcounter.com/csuE"><img src="https://s01.flagcounter.com/countxl/csuE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
