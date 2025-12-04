@@ -45,6 +45,7 @@ And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the
   
 # 📝 Selected Publications
  （* denotes Equal Contribution and # denotes Corresponding Author）
+- [**AAAI'26**] EssayBench: Evaluating Large Language Models in Multi-Genre Chinese Essay Writing REQUEST CODE. Fan Gao, **Dongyuan Li**, Ding Xia, Fei Mi, Yasheng Wang, Lifeng Shang, Baojun Wang
 - [**NeurIPS'25**] [**\[Arxiv\]**](https://arxiv.org/pdf/2408.06966) DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs. **Dongyuan Li**, Shiyin Tan, Ying Zhang, Ming Jin, Shirui Pan, Manabu Okumura, Renhe Jiang.
 - [**EMNLP'25**] Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances, Resources, and Future Directions. Yaozu Wu*, **Dongyuan Li***, Yankai Chen, Renhe Jiang, Henry Peng Zou, Wei-Chieh Huang, Yangning Li, Liancheng Fang, Zhen Wang, Philip S. Yu.
 - [**EMNLP'25**] Automating eHMI Action Design with LLMs for Automated Vehicle Communication. Ding Xia, Xinyue Gui, Fan Gao, **Dongyuan Li**, Mark Colley, Takeo Igarashi.
