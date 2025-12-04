@@ -45,7 +45,18 @@ And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the
   
 # 📝 Selected Publications
  （* denotes Equal Contribution and # denotes Corresponding Author）
-- [**Preprint**] [**\[Arxiv\]**](https://arxiv.org/pdf/2408.06966) DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs. **Dongyuan Li**, Shiyin Tan, Ying Zhang, Ming Jin, Shirui Pan, Manabu Okumura, Renhe Jiang.
+- [**NeurIPS'25**] [**\[Arxiv\]**](https://arxiv.org/pdf/2408.06966) DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs. **Dongyuan Li**, Shiyin Tan, Ying Zhang, Ming Jin, Shirui Pan, Manabu Okumura, Renhe Jiang.
+- [**EMNLP'25**] Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances, Resources, and Future Directions. Yaozu Wu*, **Dongyuan Li***, Yankai Chen, Renhe Jiang, Henry Peng Zou, Wei-Chieh Huang, Yangning Li, Liancheng Fang, Zhen Wang, Philip S. Yu.
+- [**EMNLP'25**] Automating eHMI Action Design with LLMs for Automated Vehicle Communication. Ding Xia, Xinyue Gui, Fan Gao, **Dongyuan Li**, Mark Colley, Takeo Igarashi.
+- [**EMNLP'25**] A Survey of RAG-Reasoning Systems in Large Language Models. Yangning Li, Weizhi Zhang, Yuyao Yang, Wei-Chieh Huang, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, **Dongyuan Li**, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S Yu
+- [**MM'25**] Video-based Transparent Object Segmentation via Temporal Feature Aggregation. Zhen Wang, **Dongyuan Li**, Yaozu Wu, Peide Zhu, Shiyin Tan, Renhe Jiang.
+- [**SIGKDD'25**] Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity. Shiyin Tan, **Dongyuan Li#**, Renhe Jiang, Zhen Wang, Xingtong Yu, Manabu Okumura **(Best Paper Award)**.
+- [**SIGIR'25**] A Unified Retrieval Framework with Document Ranking and EDU Filtering for Multi-document Summarization.Shiyin Tan, Jaeeon Park, **Dongyuan Li#**, Renhe Jiang, Manabu Okumura.
+- [**KBS'25**] LiDAR-assisted Image Restoration for Extreme Low-Light Conditions. Zhen Wang, Yaozu Wu, **Dongyuan Li**, Guang Li, Peide Zhu, Ziqing Zhang, Renhe Jiang.
+- [**ICLR'25**] MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions. Jian Wu*, Linyi Yang*, **Dongyuan Li***, Yuliang Ji, Manabu Okumura, Yue Zhang **(Rating Top 0.2%, Oral Presentation)**.
+- [**WWW'25**] Revisiting Dynamic Graph Clustering via Matrix Factorization.　**Dongyuan Li**, Satoshi Kosugi, Ying Zhang, Manabu Okumura, Feng Xia, Renhe Jiang.
+- [**AAAI'25**] Thermal-Aware Low-Light Image Enhancement: A Real-World Benchmark and a New Light-Weight Model. Zhen Wang, Yaozu Wu, **Dongyuan Li**, Shiyin Tan, Zhishuai Yin.
+- [**AAAI'25**] BIG-FUSION: Brain-Inspired Global-Local Context Fusion Framework for Multimodal Emotion Recognition in Conversations. Yusong Wang, Xuanye Fang, Huifeng Yin, **Dongyuan Li**, Guoqi Li, Qi Xu, Yi Xu, Shuai Zhong, Mingkun Xu.
 - [**Preprint**] [**\[Arxiv\]**](https://arxiv.org/abs/2408.01308) Reconsidering Token Embeddings with the Definitions for Pre-trained Language Models. Ying Zhang, **Dongyuan Li**, Mamabu Okumura.
 - [**PACLIC24**] LPLS: A Selection Strategy Based on Pseudo-Labeling Status for Semi-Supervised Active Learning in Text Classification. Chun-Fang Chuang, **Dongyuan Li**, Satoshi Kosugi, Kotaro Funakoshi, Manabu Okumura **(Best Paper Award)**.
 - [**EMNLP24**] LAMBDA: Large Language Model-Based Data Augmentation for Multi-Modal Machine Translation. Yusong Wang, **Dongyuan Li**, Jialun Shen, Yicheng Xu, Mingkun Xu, Kotaro Funakoshi, Manabu Okumura.
