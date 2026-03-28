@@ -28,6 +28,9 @@ And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the
 
 
 # 🔥 News
+[*2026.03.20*] &nbsp;🎉🎉 I am serving as an Area Chair for EMNLP-2026 and NeurIPS-2026\
+[*2026.03.01*] &nbsp;🎉🎉 Two paper has been Accepted by ICLR-2026 \
+[*2026.02.01*] &nbsp;🎉🎉 One paper has been Accepted by WWW-2026 \
 [*2025.10.10*] &nbsp;🎉🎉 I am serving as an Area Chair for ACL-2026 and ICASSP-2026\
 [*2025.09.19*] &nbsp;🎉🎉 Our DyG-Mamba has been Accepted by NeurIPS-2025.\
 [*2025.08.21*] &nbsp;🎉🎉 Three papers have been Accepted by EMNLP-2025.\
@@ -101,6 +104,9 @@ And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the
 
 # 🎖 Honors and Awards
 
+- 委员赏 in ANLP 2026.
+- Best Student Paper Award in SIGKDD 2025. 
+- Best Paper Award in PACLIC 2025.
 - Best Reviewer Awards in ARR-2023. 
 - TSUBAME Scholarship, Tokyo Institute of Technology, 2021-2024.
 - Chinese Scholarship Council (CSC) 2021-2024.
@@ -110,7 +116,7 @@ And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the
 - National Science Foundation Graduate Fellowship (CASC), 2019-2020.
 
 # 📄 Academic Services
-- Area Chair for ACL 2026
+- Area Chair for ACL EMNLP 2026
 - Program Committee Member for ACL/EMNLP/NAACL 2022--2025
 - Program Committee Member for AAAI/IJCAI/MM 2023--2025
 - Program Committee Member ICML/NeurIPS/ICLR  2024--2026
