@@ -28,10 +28,11 @@ And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the
 
 
 # 🔥 News
-[*2026.03.20*] &nbsp;🎉🎉 I am serving as an Area Chair for EMNLP-2026 and NeurIPS-2026\
-[*2026.03.01*] &nbsp;🎉🎉 Two paper has been Accepted by ICLR-2026 \
-[*2026.02.01*] &nbsp;🎉🎉 One paper has been Accepted by WWW-2026 \
-[*2025.10.10*] &nbsp;🎉🎉 I am serving as an Area Chair for ACL-2026 and ICASSP-2026\
+[*2026.04.07*] &nbsp;🎉🎉 Three co-authoer papers have been Accepted by ACL-2026. \
+[*2026.03.20*] &nbsp;🎉🎉 I am serving as an Area Chair for EMNLP-2026 and NeurIPS-2026.\
+[*2026.03.01*] &nbsp;🎉🎉 Two paper has been Accepted by ICLR-2026. \
+[*2026.02.01*] &nbsp;🎉🎉 One paper has been Accepted by WWW-2026. \
+[*2025.10.10*] &nbsp;🎉🎉 I am serving as an Area Chair for ACL-2026 and ICASSP-2026. \
 [*2025.09.19*] &nbsp;🎉🎉 Our DyG-Mamba has been Accepted by NeurIPS-2025.\
 [*2025.08.21*] &nbsp;🎉🎉 Three papers have been Accepted by EMNLP-2025.\
 [*2025.07.15*] &nbsp;🎉🎉 One paper has been Accepted by SIGKDD-2025 (Best Student Paper Award).\
