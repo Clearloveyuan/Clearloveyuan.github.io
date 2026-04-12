@@ -28,7 +28,7 @@ And I am also a Research Fellow in Science Tokyo. I have obtained my Ph.D in the
 
 
 # 🔥 News
-[*2026.04.07*] &nbsp;🎉🎉 Three co-authoer papers have been Accepted by ACL-2026. \
+[*2026.04.07*] &nbsp;🎉🎉 Three papers have been Accepted by ACL-2026. \
 [*2026.03.20*] &nbsp;🎉🎉 I am serving as an Area Chair for EMNLP-2026 and NeurIPS-2026.\
 [*2026.03.01*] &nbsp;🎉🎉 Two paper has been Accepted by ICLR-2026. \
 [*2026.02.01*] &nbsp;🎉🎉 One paper has been Accepted by WWW-2026. \
